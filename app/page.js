@@ -1,7 +1,8 @@
+import HomeContainer from "@/containers/home";
 
 
 export default function Home() {
   return (
-    <h1>project start</h1>
+    <HomeContainer/>
   )
 }
